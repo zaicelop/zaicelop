@@ -1,4 +1,8 @@
-![Codewars](https://github.r2v.ch/codewars?user=zaicelop&stroke=black)
+<p align="center" >
+    <a href="https://www.codewars.com/users/zaicelop">
+      <img src="https://github.r2v.ch/codewars?user=USERNAME" />
+    </a>
+</p>
 
 <!--
 **zaicelop/zaicelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

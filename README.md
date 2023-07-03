@@ -1,6 +1,6 @@
 <p align="center" >
     <a href="https://www.codewars.com/users/zaicelop">
-      <img src="https://github.r2v.ch/codewars?user=USERNAME" />
+      <img src="https://github.r2v.ch/codewars?user=zaicelop&stroke=black" />
     </a>
 </p>
 

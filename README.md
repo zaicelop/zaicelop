@@ -1,3 +1,5 @@
+## 📈 Codewars Stats
+
 <p align="center" >
     <a href="https://www.codewars.com/users/zaicelop">
       <img src="https://github.r2v.ch/codewars?user=zaicelop&top_languages=true&stroke=%23b362ff&theme=purple_dark" />

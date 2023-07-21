@@ -6,12 +6,6 @@
     </a>
 </p>
 
-<p align="center" >
-    <a>
-      <img src="https://sirus.su/api/characters/33/269768/bar.jpg"/>
-    </a>
-</p>
-
 <!--
 **zaicelop/zaicelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
